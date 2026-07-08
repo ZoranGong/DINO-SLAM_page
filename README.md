@@ -1,6 +1,6 @@
 # DINO-SLAM
 
-This is the repository that contains source code for the [DINO-SLAM website](https://zorangong.github.io/Ov3R_page/).
+This is the repository that contains source code for the [DINO-SLAM website]([https://zorangong.github.io/Ov3R_page/](https://zorangong.github.io/DINO-SLAM/)).
 
 If you find DINO-SLAM useful for your work please cite:
 ```
